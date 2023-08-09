@@ -98,8 +98,6 @@
 <div class="constitution">
     <h1 class="noUnderscore">SDWFAP BYLAWS</h1>
     
-    <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
-    
     <h3 Payout:
 Annual League Dues
 This number can be changed year to year by vote
