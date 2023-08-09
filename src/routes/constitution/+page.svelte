@@ -98,33 +98,30 @@
 <div class="constitution">
     <h1 class="noUnderscore">SDWFAP BYLAWS</h1>
     
-    <h3 Payout:
-Annual League Dues
-This number can be changed year to year by vote
-2023: $65
-2024: $80
-2025: $95
-League dues to be paid by each year’s draft
-Lose your picks if you haven’t paid yet
-Will vote on LeagueSafe or someone will keep the money
-Payout
-$65/team = $780
-1st - $270
-2nd - $170
-3rd - $90
-4th - $80
-Regular Season Winner - $50
-Weekly High Score - $70
-Empire Pot - $50
-Empire Pot will build up every year
-The first team to win back-to-back championships since the last team to do so wins empire pot
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-League Structure:
-12 Teams
-14 Game Schedule
-No Divisions
+    <h3 Payout: </h3>
+      <h3  Annual League Dues </h3>
+      <h3  This number can be changed year to year by vote </h3>
+        <h3 2023: $65 </h3>
+        <h3 2024: $80 </h3>
+        <h3 2025: $95 </h3>
+        <h3 League dues to be paid by each year’s draft </h3>
+<h3 Lose your picks if you haven’t paid yet </h3>
+<h3 Will vote on LeagueSafe or someone will keep the money </h3>
+<h3 Payout </h3>
+<h3 $65/team = $780 </h3>
+<h3 1st - $270 </h3>
+<h3 2nd - $170 </h3>
+<h3 3rd - $90 </h3>
+<h3 4th - $80 </h3>
+<h3 Regular Season Winner - $50 </h3>
+<h3 Weekly High Score - $70 </h3>
+<h3 Empire Pot - $50 </h3>
+<h3 Empire Pot will build up every year </h3>
+<h3 The first team to win back-to-back championships since the last team to do so wins empire pot </h3>
+<h3 League Structure: </h3>
+<h3 12 Teams </h3>
+<h3 14 Game Schedule </h3>
+<h3 No Divisions </h3>
 3 Week Playoffs
 0.5 PPR
 30 roster spots
